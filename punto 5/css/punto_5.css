@@ -1,0 +1,33 @@
+.container {
+    width: 800px;
+    background-color: white;
+    text-align: justify;
+    padding: 20px;
+  }
+  .line {
+    margin: 10px;
+  }
+  .Green {
+    color: green;
+  }
+  .Red {
+    
+    color: red;
+  }
+  .Top{
+    
+    border-top: 1px solid;
+  }
+  .Large-font {
+    font-weight: bold;
+    font-size: 2em;
+  }
+  
+  .Blue-font {
+    color: blue;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  .und{
+    text-decoration: underline;}
+  

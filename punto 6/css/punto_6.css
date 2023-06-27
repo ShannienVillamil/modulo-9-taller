@@ -1,0 +1,29 @@
+.container {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .line {
+    text-align: justify;
+    margin: 10px;
+    font-weight: bold;
+  }
+  
+  .yellow-link {
+    color: yellow;
+    text-decoration: underline;
+  }
+  
+  .yellow-link:hover {
+    color: darkgoldenrod;
+    text-decoration: underline;
+  }
+  .purple-link {
+    color: purple;
+    text-decoration: underline;
+  }
+  .purple-link:hover {
+    color: magenta;
+    text-decoration: underline;
+  }
+  

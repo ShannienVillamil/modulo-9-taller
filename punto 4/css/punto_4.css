@@ -1,0 +1,20 @@
+Css
+
+.container {
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue-text {
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+}
+.red-text {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+}
